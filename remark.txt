@@ -1,0 +1,72 @@
+Prescription ID: 4
+Remark Type: Client
+Remark: This is a really long remark that exceeds the maximum allowed word limit which is twenty words exactly.
+---------------------------------
+Prescription ID: 4
+Remark Type: Client
+Remark: This is a really long remark that exceeds the maximum allowed word limit which is twenty words exactly.
+---------------------------------
+Prescription ID: 1
+Remark Type: Client
+Remark: The patient needs a follow-up in three months.
+---------------------------------
+Prescription ID: 1
+Remark Type: Optometrist
+Remark: It is recommended to consider a stronger prescription next time.
+---------------------------------
+Prescription ID: 6
+Remark Type: Client
+Remark: The patient needs a follow-up in three months.
+---------------------------------
+Prescription ID: 6
+Remark Type: Optometrist
+Remark: It is recommended to consider a stronger prescription next time.
+---------------------------------
+Prescription ID: 6
+Remark Type: Client
+Remark: The patient needs a follow-up in three months.
+---------------------------------
+Prescription ID: 6
+Remark Type: Optometrist
+Remark: It is recommended to consider a stronger prescription next time.
+---------------------------------
+Prescription ID: 4
+Remark Type: Client
+Remark: This is a really long remark that exceeds the maximum allowed word limit which is twenty words exactly.
+---------------------------------
+Prescription ID: 1
+Remark Type: Client
+Remark: The patient needs a follow-up in three months.
+---------------------------------
+Prescription ID: 1
+Remark Type: Optometrist
+Remark: It is recommended to consider a stronger prescription next time.
+---------------------------------
+Prescription ID: 4
+Remark Type: Client
+Remark: This is a really long remark that exceeds the maximum allowed word limit which is twenty words exactly.
+---------------------------------
+Prescription ID: 4
+Remark Type: Client
+Remark: This is a really long remark that exceeds the maximum allowed word limit which is twenty words exactly.
+---------------------------------
+Prescription ID: 4
+Remark Type: Client
+Remark: This is a really long remark that exceeds the maximum allowed word limit which is twenty words exactly.
+---------------------------------
+Prescription ID: 6
+Remark Type: Client
+Remark: The patient needs a follow-up in three months.
+---------------------------------
+Prescription ID: 6
+Remark Type: Optometrist
+Remark: It is recommended to consider a stronger prescription next time.
+---------------------------------
+Prescription ID: 1
+Remark Type: Client
+Remark: The patient needs a follow-up in three months.
+---------------------------------
+Prescription ID: 1
+Remark Type: Optometrist
+Remark: It is recommended to consider a stronger prescription next time.
+---------------------------------

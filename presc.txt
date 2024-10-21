@@ -1,0 +1,54 @@
+Prescription ID: 1
+Name: John Smith
+Address: 123 Main St, Suburb, Country 12345
+Sphere: 1.5
+Cylinder: -1.0
+Axis: 90.0
+Examination Date: Mon Oct 21 23:01:02 IST 2024
+Optometrist: Dr. Andrew Smith
+---------------------------------
+Prescription ID: 2
+Name: Alice Brown
+Address: 456 Another St, Suburb, Some Country 67890
+Sphere: -2.0
+Cylinder: 3.0
+Axis: 100.0
+Examination Date: Mon Oct 21 23:01:02 IST 2024
+Optometrist: Dr. Samantha Brown
+---------------------------------
+Prescription ID: 1
+Name: John Smith
+Address: 123 Main St, Suburb, Country 12345
+Sphere: 1.5
+Cylinder: -1.0
+Axis: 90.0
+Examination Date: Mon Oct 21 23:03:58 IST 2024
+Optometrist: Dr. Andrew Smith
+---------------------------------
+Prescription ID: 2
+Name: Alice Brown
+Address: 456 Another St, Suburb, Some Country 67890
+Sphere: -2.0
+Cylinder: 3.0
+Axis: 100.0
+Examination Date: Mon Oct 21 23:03:58 IST 2024
+Optometrist: Dr. Samantha Brown
+---------------------------------
+Prescription ID: 1
+Name: John Smith
+Address: 123 Main St, Suburb, Country 12345
+Sphere: 1.5
+Cylinder: -1.0
+Axis: 90.0
+Examination Date: Mon Oct 21 23:06:47 IST 2024
+Optometrist: Dr. Andrew Smith
+---------------------------------
+Prescription ID: 2
+Name: Alice Brown
+Address: 456 Another St, Suburb, Some Country 67890
+Sphere: -2.0
+Cylinder: 3.0
+Axis: 100.0
+Examination Date: Mon Oct 21 23:06:47 IST 2024
+Optometrist: Dr. Samantha Brown
+---------------------------------
